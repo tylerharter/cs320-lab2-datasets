@@ -3,3 +3,5 @@ https://www.cms.gov/OpenPayments. This dataset makes financial relationships bet
 https://open.fda.gov/tools/downloads/.  The FDA  posted many datasets here, regarding food recalls, adverse reactions to drugs, and approved medical devices.
 
 Interesting!
+
+https://www.kaggle.com/gpreda/covid-world-vaccination-progress.  This is an aggregation of global vaccination progress collected by Our World In Data
