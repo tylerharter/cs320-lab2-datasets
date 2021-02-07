@@ -1,0 +1,2 @@
+https://www.kaggle.com/ruchi798/among-us-dataset
+Kaggle project with multiple datasets for the game stats for different users of Among Us
