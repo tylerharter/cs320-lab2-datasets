@@ -8,6 +8,10 @@ https://meps.ahrq.gov/mepsweb/  The MEPS (Medical Expenditure Panel Survey) is t
 https://www.kaggle.com/gpreda/covid-world-vaccination-progress This data set talks about COVID-19 vaccination progress
 
 Interesting!
+
+https://www.kaggle.com/gpreda/covid-world-vaccination-progress.  This is an aggregation of global vaccination progress collected by Our World In Data
+
 The mitochondria is the powerhouse of the cell
 
 https://www.who.int/data/gho/data/indicators/indicator-details/GHO/community-health-workers-density-(per-10-000-population) WHO tracks community health workers density
+
