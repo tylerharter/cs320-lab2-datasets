@@ -1,8 +1,9 @@
+
+
 link: https://www.footballdb.com/fantasy-football/index.html
 
 2020 Fantasy Football Statistics
 The following are the Week 17 fantasy football statistics for QB/RB/WR/TE for the 2020 NFL season. 
-
 
 https://github.com/nfl-football-ops/Big-Data-Bowl/blob/master/Data/games.csv
 This link brings you to a dataset regarding 2017 NFL Games
