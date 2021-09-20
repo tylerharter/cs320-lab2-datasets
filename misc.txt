@@ -1,3 +1,6 @@
 https://github.com/fivethirtyeight/data.  This news outlet, started by Nate Silver, focuses on data-driven stories, often about sports and politics. Many of the datasets underlying their stories are online on GitHub.
 
 https://toolbox.google.com/datasetsearch.  This search tool is in Beta, but it provides high quality results integrated with Google Scholar, such that you can see how many papers cite a given dataset.
+
+https://agcros-usdaars.opendata.arcgis.com/datasets/esri::usa-rivers-and-streams/explore?location=44.592478%2C60.913937%2C3.63&showTable=true 
+Rivers and Streams in the United States
