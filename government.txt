@@ -1,3 +1,5 @@
 https://factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml: You can find various stats about populations and demographics here.
 
 http://data-cityofmadison.opendata.arcgis.com/.  City of Madison data about parking, bike traffic, and much more.
+
+https://data.cityofnewyork.us/Recreation/New-York-Public-Library-NYPL-Branch-Services-from-/ne9z-skhf/data Provides information about all of the libraries in the New York public library system from 07-2010 to 06-2011
