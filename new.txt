@@ -1,0 +1,8 @@
+Hello 
+welcome
+to my 
+file
+this is the end
+:)
+Dataset: kaggle.com/sveneschlbeck/resale-flat-prices-in-singapore
+Description: Resale prices of flats in singapore 
