@@ -1,0 +1,2 @@
+https://www.kaggle.com/rounakbanik/pokemon
+this dataset contains a good amount of game data for 7 generations of pokemon (ie. abilities, stats, type tables)
