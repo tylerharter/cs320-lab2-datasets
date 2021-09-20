@@ -1,0 +1,1 @@
+https://projects.fivethirtyeight.com/nfl-api/nfl_elo_latest.csv: nfl_elo_latest.csv contains game-by-game Elo ratings and forecasts for only the latest season, from Fivethirtyeight (https://github.com/fivethirtyeight/data/tree/master/nfl-elo)
