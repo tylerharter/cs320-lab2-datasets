@@ -1,0 +1,3 @@
+https://github.com/awesomedata/awesome-public-datasets
+
+This is an awesome public dataset that contains tons of open-accessed datasets!
