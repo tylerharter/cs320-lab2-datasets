@@ -1,0 +1,3 @@
+https://www.kaggle.com/sveneschlbeck/resale-flat-prices-in-singapore
+
+Resale Flat Prices in Singapore vary depending on the neighborhood, street and size of the apartment. This dataset gives a good overview about Singapore's resale flat prices of an entire decade - depending on numerous variables.
