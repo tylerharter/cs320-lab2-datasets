@@ -1,0 +1,1 @@
+https://datahub.io/collections/football#football-datasets this is a dataset that contains data regarding soccer scores across various leagues
