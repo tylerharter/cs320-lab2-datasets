@@ -1,0 +1,15 @@
+https://www.statista.com/statistics/252480/number-of-property-crimes-in-the-us-by-type-and-age/
+Number of arrests for property crimes in the United States in 2019, by type and age
+
+Type of crime	Property crime (total)	Larceny-theft	Burglary	Motor vehicle theft	Arson
+Under 18	87,710	62,200	14,504	9,742	1,264
+18-24	159,426	121,483	24,942	12,121	880
+25-29	125,086	94,072	20,129	10,017	868
+30-34	116,944	88,432	18,695	8,986	831
+35-39	96,414	73,764	15,020	6,845	785
+40-44	64,968	50,915	9,419	4,092	542
+45-49	48,508	38,842	6,665	2,648	353
+50-54	39,155	31,941	5,130	1,758	326
+55-59	28,068	23,360	3,456	994	258
+60-64	13,774	11,785	1,498	361	130
+65 and older	8,583	7,493	784	174	132
