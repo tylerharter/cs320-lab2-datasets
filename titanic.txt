@@ -1,0 +1,3 @@
+zip data for titanic info
+
+https://github.com/awesomedata/awesome-public-datasets/blob/master/Datasets/titanic.csv.zip
