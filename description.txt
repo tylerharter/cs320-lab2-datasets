@@ -1,3 +1,3 @@
-Dataset I found: http://data-cityofmadison.opendata.arcgis.com/
+Dataset I found: https://data-cityofmadison.opendata.arcgis.com/datasets/cityofmadison::street-light-utility-ownership/about
 
-description: it is data about madison bikes, traffic and much more
+description: data layer contains borders for the different areas of utility maintained street lights in the City of Madison
