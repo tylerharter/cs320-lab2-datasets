@@ -1,0 +1,2 @@
+https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
+Here you can find video game ratings and their global sales.
