@@ -2,4 +2,4 @@ https://www.cms.gov/OpenPayments.  This dataset makes financial relationships be
 
 https://open.fda.gov/tools/downloads/.  The FDA has posted many datasets here, regarding food recalls, adverse reactions to drugs, and approved medical devices.
 
-https://healthdata.gov/ This site has many high value health data accessible to entrepreneurs, researchers, and policy makers.
+https://healthdata.gov/. This site has many high value health data accessible to entrepreneurs, researchers, and policy makers.
