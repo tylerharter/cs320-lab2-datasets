@@ -1,3 +1,5 @@
 https://factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml: You can find various stats about populations and demographics here.
 
+https://ourworldindata.org/grapher/maddison-data-gdp-per-capita-in-2011us-single-benchmark You can look up the GDP per capita
+
 http://data-cityofmadison.opendata.arcgis.com/.  City of Madison data about parking, bike traffic, and much more.
