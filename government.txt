@@ -1,3 +1,6 @@
 https://factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml: You can find various stats about populations and demographics here.
 
 http://data-cityofmadison.opendata.arcgis.com/.  City of Madison data about parking, bike traffic, and much more.
+
+
+https://www.ttb.gov/tax-audit/tax-collections     This dataset consists of quarterly and annual statistical reports on taxes collected by TTB.
