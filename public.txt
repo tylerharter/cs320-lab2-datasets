@@ -1,0 +1,1 @@
+https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=sdoh_cms_dual_eligible_enrollment&page=dataset&project=scenic-setup-325902. This data summarize counts of enrollees who are dually-eligible for both Medicare and Medicaid program, including those in Medicare Savings Programs.
