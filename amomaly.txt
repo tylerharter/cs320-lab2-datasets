@@ -1,0 +1,2 @@
+link: http://svcl.ucsd.edu/projects/anomaly/dataset.htm
+description: The UCSD anomaly detection dataset which was aquired with a stationary camera mounted at an elevation, overlooking pedestrian walkways.
