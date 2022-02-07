@@ -1,3 +1,5 @@
 https://www.cms.gov/OpenPayments.  This dataset makes financial relationships between physicians and medical companies more transparent. You can extract the total dollar value of payments made to individual physicians.
 
 https://open.fda.gov/tools/downloads/.  The FDA has posted many datasets here, regarding food recalls, adverse reactions to drugs, and approved medical devices.
+
+https://chronicdata.cdc.gov/views/g4ie-h725/rows.json?accessType=DOWNLOAD CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. 
