@@ -1,0 +1,3 @@
+Statistics on daily wordle tweets can be found here
+https://www.kaggle.com/benhamner/wordle-tweets?select=tweets.csv
+
