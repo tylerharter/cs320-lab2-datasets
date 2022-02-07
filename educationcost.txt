@@ -1,0 +1,1 @@
+https://www.kaggle.com/kaggle/college-scorecard. This dataset demonstrates the costs in the United States for students studying higher education and questions the validity of paying so much money for education using finer relationships between future income and university attendance.
