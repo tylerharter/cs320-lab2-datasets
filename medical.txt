@@ -1,3 +1,5 @@
 https://www.cms.gov/OpenPayments.  This dataset makes financial relationships between physicians and medical companies more transparent. You can extract the total dollar value of payments made to individual physicians.
 
 https://open.fda.gov/tools/downloads/.  The FDA has posted many datasets here, regarding food recalls, adverse reactions to drugs, and approved medical devices.
+
+https://pubmed.ncbi.nlm.nih.gov/?otool=uiclib.  PubMed, a service of the National Library of Medicine, provides access to over 12 million MEDLINE citations back to the mid-1960's and additional life science journals. Pub Med includes links to many sites providing full text articles and other related resources.
