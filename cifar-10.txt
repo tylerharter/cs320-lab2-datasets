@@ -1,0 +1,4 @@
+The CIFAR-10 is a famous dataset for Deep Learning Convolutional Neural Networks(CNN)' performance testing. Images in this dataset is categorized into 10 categories.
+
+Official Site: https://www.cs.toronto.edu/~kriz/cifar.html
+Download Python Version: https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
