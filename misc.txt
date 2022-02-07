@@ -1,3 +1,5 @@
 https://github.com/fivethirtyeight/data.  This news outlet, started by Nate Silver, focuses on data-driven stories, often about sports and politics. Many of the datasets underlying their stories are online on GitHub.
 
 https://toolbox.google.com/datasetsearch.  This search tool is in Beta, but it provides high quality results integrated with Google Scholar, such that you can see how many papers cite a given dataset.
+
+http://yann.lecun.com/exdb/mnist/ This is a link to mnist images. These are 28-28 images of hand written digits. They are very usful as a machine learning trainging data set to learn with.
