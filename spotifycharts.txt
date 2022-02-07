@@ -1,0 +1,4 @@
+https://www.kaggle.com/dhruvildave/spotify-charts
+
+cool dataset surrounding the history of the top 200 and viral 50 spotify
+charts since 2017!
