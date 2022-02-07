@@ -1,0 +1,3 @@
+https://www.eia.gov/state/seds/data.php?incfile=/state/seds/sep_fuel/html/fuel_nu.html&sid=US
+# visit this site to get data about nuclear energy consumption, price, and expenditures by US State for 2020.
+
