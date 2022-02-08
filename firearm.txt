@@ -1,0 +1,3 @@
+https://github.com/BuzzFeedNews/nics-firearm-background-checks.  The FBI provides data on the number of firearm checks by month, state, and type.
+
+https://raw.githubusercontent.com/BuzzFeedNews/nics-firearm-background-checks/master/data/nics-firearm-background-checks.csv. Can be downloaded from here.
