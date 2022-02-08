@@ -1,0 +1,3 @@
+https://www.kaggle.com/vesuvius13/serial-killers-dataset
+
+This link has four csv files to choose from that have information about known serial killers including the name, proven victims, possible victims, and a summary of the crimes they committed with the highest victim count.
