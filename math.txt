@@ -1,0 +1,2 @@
+https://www.mathisfun.com/number/prime-numbers-to-10k.html
+#this file lists all the primes up to 10,000
