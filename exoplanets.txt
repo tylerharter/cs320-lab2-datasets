@@ -1,0 +1,3 @@
+https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS
+
+this data set contains information about exoplants and their discovery
