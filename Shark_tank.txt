@@ -1,0 +1,3 @@
+ #Kaggle dataset on shark tank Companies from 6 seasons
+
+https://www.kaggle.com/yamqwe/shark-tank-companiese
