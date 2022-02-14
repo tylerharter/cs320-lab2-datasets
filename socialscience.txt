@@ -1,0 +1,5 @@
+
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HTTWYL
+
+Mass Mobilization Protest Data: 
+This dataset found on Harvard Dataverse contians "data on protests against governments, what protesters demand, and how governments respond. The data cover the globe, 162 countries, 1990-2014."
