@@ -1,3 +1,5 @@
 https://www.cms.gov/OpenPayments.  This dataset makes financial relationships between physicians and medical companies more transparent. You can extract the total dollar value of payments made to individual physicians.
 
 https://open.fda.gov/tools/downloads/.  The FDA has posted many datasets here, regarding food recalls, adverse reactions to drugs, and approved medical devices.
+
+https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier This is one of those medical datasets that focuses primarily as an information source around services and procedures provided to Medicare beneficiaries by their respective physicians. The dataset was collected between 2012 and 2018.
