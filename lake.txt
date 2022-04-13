@@ -1,0 +1,5 @@
+lake dataset
+
+https://nationallakesassessment.epa.gov/ Percentage of Lakes in Most Disturbed Condition in 2012
+
+https://www.glerl.noaa.gov/data/dashboard/info/waterTemps.html Water Temperature of Great Lakes
