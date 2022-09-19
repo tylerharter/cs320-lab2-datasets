@@ -1,0 +1,1 @@
+https://nsrdb.nrel.gov/data-sets/international-data #Solar radiation data for different regions of the world
