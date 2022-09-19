@@ -4,3 +4,6 @@ https://open.fda.gov/tools/downloads/.  The FDA has posted many datasets here, r
 
 https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi.   CDC's medical datasets for chronic disease disorder 
 indicators. There are 124 indicators collected from variety of states and cities.
+
+https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf This case surveillance public use dataset has 12 elements for all COVID-19 cases shared with CDC and includes demographics, any exposure history, disease severity indicators and outcomes, presence of any underlying medical conditions and risk behaviors, and no geographic data.
+
