@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020 --> Dataset containing various fields of information regarding the F1 circuit from 1950-2022
