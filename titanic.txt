@@ -1,0 +1,5 @@
+https://www.kaggle.com/competitions/titanic/data
+
+This is a dataset containing real world data from the victims of the sinking of the RMS Titanic. There are around
+1400 total observations with the first 900 containing several features and a 'Survived' feature and the last 400 or
+so not containing the 'Survived' feature.
