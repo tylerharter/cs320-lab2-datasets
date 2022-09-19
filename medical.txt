@@ -4,3 +4,6 @@ https://open.fda.gov/tools/downloads/.  The FDA has posted many datasets here, r
 
 https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi.   CDC's medical datasets for chronic disease disorder 
 indicators. There are 124 indicators collected from variety of states and cities.
+
+https://www.census.gov/programs-surveys/nsch/data/datasets.2020.html#list-tab-UNCKAMJ2UEBQS7EP4L. National Survey of Children's Health
+dataset from 2020.
