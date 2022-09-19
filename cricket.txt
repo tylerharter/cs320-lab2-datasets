@@ -1,0 +1,3 @@
+Database for cricket (the sport) statistics!
+
+https://cricsheet.org/downloads/
