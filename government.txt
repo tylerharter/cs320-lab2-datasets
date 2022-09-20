@@ -3,3 +3,5 @@ https://factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml: You can
 http://data-cityofmadison.opendata.arcgis.com/.  City of Madison data about parking, bike traffic, and much more.
 
 https://zenodo.org/record/4296040/files/Mono_Continuous.z01?download=1 . Guitar records dataset
+
+https://data-cityofmadison.opendata.arcgis.com/datasets/cityofmadison::metro-transit-ridership-by-stop/explore?location=43.072864%2C-89.412400%2C12.29&showTable=true  City of Madison data about public transportation usage on buses.
