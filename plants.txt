@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/csafrit2/plant-leaves-for-image-classification
+
+This data set contains a set of plants that have been classified as either healthy or diseased.
