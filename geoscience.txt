@@ -1,3 +1,5 @@
 macrostrat.org  #Geological database, which contains information about stratigraphy and sedimentology for North America and others different regions of the world
 
 paleobiodb.org #Largest paleontological database, contains information about fossil ocurences in the world
+
+https://github.com/devstronomy/nasa-data-scraper/blob/master/data/csv/satellites.csv  #Astronomy database, which contains information about planetary satellites (moons) of planets in our Solar System. 
