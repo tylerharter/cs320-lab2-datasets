@@ -3,3 +3,5 @@ https://factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml: You can
 http://data-cityofmadison.opendata.arcgis.com/.  City of Madison data about parking, bike traffic, and much more.
 
 https://zenodo.org/record/4296040/files/Mono_Continuous.z01?download=1 . Guitar records dataset
+
+https://www.census.gov/library/stories/state-by-state/wisconsin-population-change-between-census-decade.html#:~:text=Population%20(up%207.4%25%20to%20331.4,or%20More%20Races%2010.2%25). Wisconsin: 2020 Census
